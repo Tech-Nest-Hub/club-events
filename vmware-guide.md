@@ -1,8 +1,8 @@
-## vmware installation guide/resources
+## VMware installation guide/resources
 
 ### overview
 
-This is a simple guide to install **'vmware workstation pro'**.
+This is a simple guide to install **'VMware workstation pro'**.
 
 You can simply follow this youtube guide by @ProgrammingKnowledge in this [LINK](https://youtu.be/avsRdS2w5IQ?si=51eXGQAuJUUc7WG2). Or follow the simple guides below.
 
@@ -11,7 +11,7 @@ You can simply follow this youtube guide by @ProgrammingKnowledge in this [LINK]
 #### step - 1
 
 Navigate to this link:
-[vmware by broadcom](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion)
+[VMware by broadcom](https://www.VMware.com/products/desktop-hypervisor/workstation-and-fusion)
 and click the download button.
 
 <img src='/images/vmware/main.png' alt='main page'>
@@ -28,11 +28,11 @@ After creating broadcom account navigate to the [broadcom dashboard](https://sup
 
 #### step - 3
 
-Then select vmware in the filter and scroll down to find VMware Workstation Pro. Click the highlighted text.
+Then select VMware in the filter and scroll down to find VMware Workstation Pro. Click the highlighted text.
 
 <img src='/images/vmware/filter.png' alt='filter'>
 
-<img src='/images/vmware/vmware.png' alt='vmware'>
+<img src='/images/vmware/vmware.png' alt='VMware'>
 
 #### step - 4
 
