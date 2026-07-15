@@ -15,7 +15,7 @@ Go to:
 
 https://www.zaproxy.org/
 
-![alt text](home.png)
+![alt text](/images/zap-proxy/home.png)
 ---
 
 ## Step 2: Open the Download Page
@@ -24,7 +24,7 @@ Click **Download** or visit:
 
 https://www.zaproxy.org/download/
 
-![alt text](zap1-1.png)
+![alt text](/images/zap-proxy/zap1-1.png)
 
 
 ---
@@ -33,7 +33,7 @@ https://www.zaproxy.org/download/
 
 Select the Linux Installer (.sh).
 
-![alt text](zap2-1.png)
+![alt text](/images/zap-proxy/zap2-1.png)
 
 ## Step 4: Open Terminal
 
@@ -49,7 +49,7 @@ cd ~/Downloads
 chmod +x ZAP_*.sh
 ```
 
-![alt text](zap3.png)
+![alt text](/images/zap-proxy/zap3.png)
 
 ## Step 6: Run the Installer(In root)
 
@@ -57,7 +57,7 @@ chmod +x ZAP_*.sh
 ./ZAP_*.sh
 ```
 
-![alt text](zap4.png)
+![alt text](/images/zap-proxy/zap4.png)
 
 ## Step 7: Installation Wizard
 
@@ -67,21 +67,21 @@ Follow the installation wizard.
 - Choose installation location.
 - Continue until installation finishes.
 
-![alt text](zap5.png)
+![alt text](/images/zap-proxy/zap5.png)
 
-![alt text](zap6.png)
+![alt text](/images/zap-proxy/zap6.png)
 
-![alt text](zap7.png)
+![alt text](/images/zap-proxy/zap7.png)
 
-![alt text](zap8.png)
+![alt text](/images/zap-proxy/zap8.png)
 
-![alt text](zap9.png)
+![alt text](/images/zap-proxy/zap9.png)
 
 ## Step 8: Launch ZAP
 
 Start OWASP ZAP from the Applications menu or terminal.
 
-![alt text](zap10.png)
+![alt text](/images/zap-proxy/zap10.png)
 
 ---
 
@@ -89,7 +89,7 @@ Start OWASP ZAP from the Applications menu or terminal.
 
 When ZAP launches successfully, you should see the welcome screen.
 
-![alt text](zap11.png)
+![alt text](/images/zap-proxy/zap11.png)
 
 ---
 
