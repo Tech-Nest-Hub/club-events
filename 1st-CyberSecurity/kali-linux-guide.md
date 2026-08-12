@@ -2,7 +2,7 @@
 
 ### overview
 
-kali Linux is a Debian-based Linux distribution built for penetration testing and security research, with pre-installed hacking and forensics tools.
+Kali Linux is a Debian-based Linux distribution built for penetration testing and security research, with pre-installed hacking and forensics tools.
 This is a simple guide to install Kali Linux ISO image and proceed the installation in the VMware.
 
 <img src='/images/kali-linux/icon.png' height="200px" alt='kali linux icon'>
