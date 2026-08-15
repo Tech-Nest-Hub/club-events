@@ -5,7 +5,7 @@
 Kali Linux is a Debian-based Linux distribution built for penetration testing and security research, with pre-installed hacking and forensics tools.
 This is a simple guide to install Kali Linux ISO image and proceed the installation in the VMware.
 
-<img src='/images/kali-linux/icon.png' height="200px" alt='kali linux icon'>
+<img src='./images/kali-linux/icon.png' height="200px" alt='kali linux icon'>
 
 ### prerequisites
 
@@ -32,28 +32,28 @@ This is a simple guide to install Kali Linux ISO image and proceed the installat
 
 Go to the official [www.kali.org](https://www.kali.org) and click the **Download** button.
 
-<img src='/images/kali-linux/kali-org.png' alt='landing page'>
+<img src='./images/kali-linux/kali-org.png' alt='landing page'>
 
 #### step - 2
 
 Select the Virtual Machines as the platform as shown in the image below.
 
-<img src='/images/kali-linux/choose-download.png' alt='choose download'>
+<img src='./images/kali-linux/choose-download.png' alt='choose download'>
 
 #### step - 3
 
 Download the iso image for the VMware.
 
-<img src='/images/kali-linux/download.png' alt='download'>
+<img src='./images/kali-linux/download.png' alt='download'>
 
 #### step - 4
 
 After installing the Kali Linux ISO image you can follow the Kali Linux's Official Documentation Guide for booting and initial setup for VMware **[here](https://www.kali.org/docs/virtualization/install-VMware-guest-vm/)**.
 
-<img src="/images/kali-linux/insidevm.png" alt='inside vm'>
+<img src="./images/kali-linux/insidevm.png" alt='inside vm'>
 
 #### step - 5
 
 After booting and the initial setup for the VMware follow **[THIS](https://www.kali.org/docs/installation/hard-disk-install/)** documentation to proceed with the system installation inside the VMware.
 
-<img src="/images/kali-linux/install-kali.png" alt='install kali'>
+<img src="./images/kali-linux/install-kali.png" alt='install kali'>

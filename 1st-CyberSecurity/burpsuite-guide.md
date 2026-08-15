@@ -8,11 +8,11 @@ The Burp Suite should be installed by default in Kali Linux. If it is not instal
 
 Go to the official download page [portswigger.net](https://portswigger.net/burp). Click on the **Products** in the navbar and choose the 'Burp Suite Community Edition'.
 
-<img src="/images/burp-suite/selection.png">
+<img src="./images/burp-suite/selection.png">
 
 #### Click the download button.
 
-<img src="/images/burp-suite/download.png">
+<img src="./images/burp-suite/download.png">
 
 #### Select the "Linux (x64)" or Linux(ARM)
 
@@ -25,7 +25,7 @@ Go to the official download page [portswigger.net](https://portswigger.net/burp)
 > Check yours by running `uname -m` in a terminal:
 > `x86_64` → **x64** build · `aarch64`/`arm64` → **ARM** build
 
-<img src="/images/burp-suite/final.png">
+<img src="./images/burp-suite/final.png">
 
 And finally run the following command by making the file executable.
 
@@ -44,4 +44,4 @@ sudo apt update
 sudo apt install burpsuite -y
 ```
 
-<img src="/images/burp-suite/terminal.png">
+<img src="./images/burp-suite/terminal.png">

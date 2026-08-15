@@ -4,3 +4,4 @@ Welcome to the Second IT Club Event! Here you'll find prerequisites and instruct
 
 - [openclaw](openclaw-guide.md)
 - [zapier](zapier-guide.md)
+- [docker](docker-guide.md)

@@ -14,7 +14,7 @@ Navigate to this link:
 [VMware by broadcom](https://www.VMware.com/products/desktop-hypervisor/workstation-and-fusion)
 and click the download button.
 
-<img src='/images/vmware/main.png' alt='main page'>
+<img src='./images/vmware/main.png' alt='main page'>
 
 > [!NOTE]
 >
@@ -24,15 +24,15 @@ and click the download button.
 
 After creating broadcom account navigate to the [broadcom dashboard](https://support.broadcom.com/group/ecx/downloads) andd click the here button.
 
-<img src='/images/vmware/broadcom.png' alt='broadcom'>
+<img src='./images/vmware/broadcom.png' alt='broadcom'>
 
 #### step - 3
 
 Then select VMware in the filter and scroll down to find VMware Workstation Pro. Click the highlighted text.
 
-<img src='/images/vmware/filter.png' alt='filter'>
+<img src='./images/vmware/filter.png' alt='filter'>
 
-<img src='/images/vmware/vmware.png' alt='VMware'>
+<img src='./images/vmware/vmware.png' alt='VMware'>
 
 #### step - 4
 
@@ -41,4 +41,4 @@ Agree to the Terms & Conditions and click the download button. Then the download
 > [!NOTE]
 > Also there will be Trade Compliance and Download Conditions fill and submit the form otherwise you can't proceed with the installation.
 
-<img src='/images/vmware/download.png' alt='download'>
+<img src='./images/vmware/download.png' alt='download'>
